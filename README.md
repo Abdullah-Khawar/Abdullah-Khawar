@@ -52,7 +52,7 @@
 
 ## 📬 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-khawar-549a71257)  
-- 📧 Email: **your-email@example.com**  
+- 📧 Email: **abdullahkhawar2225@gmail.com**  
 
 ---
 
