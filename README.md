@@ -34,12 +34,17 @@
 
 ---
 
-## 📂 Featured Projects  
-- 🛒 **[Hafla-Rental](https://github.com/Abdullah-Khawar/Hafla-Rental)** – Rental service website built with HTML/CSS  
-- 🎬 **[Movies-Recommend-System](https://github.com/Abdullah-Khawar/Movies-Recommend-System)** – A recommendation system in Python  
-- 👁️ **[Computer-Vision-Projects](https://github.com/Abdullah-Khawar/Computer-Vision-Projects)** – Various computer vision implementations  
-- ⚙️ **[COAL-Project](https://github.com/Abdullah-Khawar/COAL-Project)** – Assembly language project  
-- 📘 **[DSA-Problems](https://github.com/Abdullah-Khawar/DSA-Problems)** – C++ solutions for Data Structures & Algorithms  
+##  Featured Projects
+
+- **Score Smart LMS** – An advanced Learning Management System (LMS) for efficient class scheduling, study material sharing, and smart session management. [Live Demo](https://www.scoresmartbookings.com/) :contentReference[oaicite:1]{index=1}
+
+- **Zefton** – A sleek e-commerce clothing brand website, beautifully crafted and hosted on Vercel: [Live Site](https://zefton.vercel.app/)
+
+- **Hafla-Rental** – Rental service website built with HTML/CSS  
+- **Movies-Recommend-System** – A recommendation system developed in Python  
+- **Computer-Vision-Projects** – A collection of computer vision implementations  
+- **COAL-Project** – An Assembly language project  
+- **DSA-Problems** – C++ solutions to common Data Structures & Algorithms problems  
 
 ---
 
