@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Khawar
 
-💡 **AI Enthusiast | Full-Stack Developer | Open-Source Contributor**
+💡 **AI Enthusiast | Full-Stack Developer
 
 ---
 
@@ -9,7 +9,7 @@
 - 🤖 Passionate about **Artificial Intelligence**, especially **Generative AI** & **Agentic AI**  
 - 🧩 Skilled in building **AI-driven applications** using **LangChain, LangGraph, n8n**  
 - 💻 Experienced in both **Frontend** & **Backend Development**  
-- 🎯 Goal: To design intelligent systems and contribute to impactful **open-source AI projects**
+- 🎯 Goal: To design intelligent systems
 
 ---
 
