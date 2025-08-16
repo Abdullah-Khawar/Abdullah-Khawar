@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdullah Noor (Abdullah-Khawar)
+# 👋 Hi, I'm Abdullah Khawar
 
 💡 **AI Enthusiast | Full-Stack Developer | Open-Source Contributor**
 
@@ -30,7 +30,7 @@
 - Python | JavaScript | TypeScript | C++ | C  
 
 ### 🔹 Other Tools  
-- Git & GitHub | Linux | MySQL | MongoDB | REST APIs  
+- Git & GitHub | Linux | MySQL | MongoDB | REST APIs | FAST APIs 
 
 ---
 
