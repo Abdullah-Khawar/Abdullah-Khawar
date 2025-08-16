@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Khawar
 
-💡 **AI Enthusiast | Full-Stack Developer
+💡 **AI Enthusiast | Full-Stack Developer**
 
 ---
 
