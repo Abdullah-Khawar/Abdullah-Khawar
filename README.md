@@ -36,7 +36,7 @@
 
 ##  Featured Projects
 
-- **Score Smart LMS** – An advanced Learning Management System (LMS) for efficient class scheduling, study material sharing, and smart session management. [Live Demo](https://www.scoresmartbookings.com/) :contentReference[oaicite:1]{index=1}
+- **Score Smart LMS** – An advanced Learning Management System (LMS) for efficient class scheduling, study material sharing, and smart session management. [Live Demo](https://www.scoresmartbookings.com/)
 
 - **Zefton** – A sleek e-commerce clothing brand website, beautifully crafted and hosted on Vercel: [Live Site](https://zefton.vercel.app/)
 
