@@ -37,7 +37,7 @@
 ##  Featured Projects
 
 - **Score Smart LMS** – An advanced Learning Management System (LMS) for efficient class scheduling, study material sharing, and smart session management. [Live Demo](https://www.scoresmartbookings.com/)
-
+- **Zefton** – A sleek e-commerce clothing brand website, beautifully crafted and hosted on Vercel: [Live Site](https://zefton.vercel.app/)
 - **Hafla-Rental** – Rental service website built with HTML/CSS  
 - **Movies-Recommend-System** – A recommendation system developed in Python  
 - **Computer-Vision-Projects** – A collection of computer vision implementations  
