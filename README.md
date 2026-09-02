@@ -55,7 +55,8 @@
 
 ## 📬 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-khawar-549a71257)  
-- 📧 Email: **abdullahkhawar2225@gmail.com**  
+- 📧 Email: **abdullahkhawar2225@gmail.com**
+- 🌐 Website: [Portfolio](abdullahkhawar.me)
 
 ---
 
