@@ -34,15 +34,29 @@
 
 ---
 
-##  Featured Projects
 
-- **Score Smart LMS** – An advanced Learning Management System (LMS) for efficient class scheduling, study material sharing, and smart session management. [Live Demo](https://www.scoresmartbookings.com/)
-- **Zefton** – A sleek e-commerce clothing brand website, beautifully crafted and hosted on Vercel: [Live Site](https://zefton.vercel.app/)
-- **Hafla-Rental** – Rental service website built with HTML/CSS  
-- **Movies-Recommend-System** – A recommendation system developed in Python  
-- **Computer-Vision-Projects** – A collection of computer vision implementations  
-- **COAL-Project** – An Assembly language project  
-- **DSA-Problems** – C++ solutions to common Data Structures & Algorithms problems  
+## 🚀 Featured Projects
+
+### 🤖 AI & Agentic Systems
+
+- **Social Sync** – AI-powered social media management platform featuring multi-agent workflows, content generation, image analysis, and automated social media operations.
+- **AI WhatsApp Sales Agent** – Intelligent conversational sales agent designed to automate customer interactions, product inquiries, and sales workflows.
+- **Automated AI Outreach System** – AI-driven outreach automation for lead generation, personalized messaging, and intelligent communication workflows.
+- **AI Customer Support Assistant** – RAG-powered customer support system using LLMs, vector search, and an administrative dashboard for knowledge management.
+- **AI Scorecard Evaluation System** – AI-powered evaluation system designed to analyze responses and automate structured assessment workflows.
+
+### 💻 Full-Stack Applications
+
+- **Score Smart LMS** – A learning management platform supporting class scheduling, study material sharing, and session management. [Live Demo](https://www.scoresmartbookings.com/)
+- **Wedlii** – Wedding-tech platform designed to connect users with wedding-related services and simplify event planning. [Visit Website](https://wedlii.com/)
+- **PickTot** – Full-stack web application featuring modern frontend architecture and backend integration. [Visit Website](https://picktot.com/)
+- **ZEFTON** – E-commerce clothing brand website featuring a modern shopping experience. [Live Site](https://zefton.vercel.app/)
+
+### 🧠 Other Projects
+
+- **Movies Recommendation System** – Machine learning-based movie recommendation system developed in Python.
+- **Computer Vision Projects** – Collection of computer vision implementations and experiments.
+- **DSA Problems** – Solutions to data structures and algorithms problems in C++.
 
 ---
 
