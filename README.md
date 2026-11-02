@@ -47,10 +47,11 @@
 
 ### 💻 Full-Stack Applications
 
-- **Score Smart LMS** – A learning management platform supporting class scheduling, study material sharing, and session management. [Live Demo](https://www.scoresmartbookings.com/)
-- **Wedlii** – Wedding-tech platform designed to connect users with wedding-related services and simplify event planning. [Visit Website](https://wedlii.com/)
-- **PickTot** – Full-stack web application featuring modern frontend architecture and backend integration. [Visit Website](https://picktot.com/)
+- **Score Smart LMS** – Learning management platform supporting class scheduling, study material sharing, and session management. [Live Demo](https://www.scoresmartbookings.com/)
+- **Famous Printers** – Website for a printing business, showcasing printing services and business offerings. [Live Site](https://famousprinters.com.pk/)
+- **Amada Hotel** – Hotel website featuring hospitality services and online booking functionality. [Live Site](https://www.amadahotel.live/)
 - **ZEFTON** – E-commerce clothing brand website featuring a modern shopping experience. [Live Site](https://zefton.vercel.app/)
+- **PickTot** – Full-stack web application featuring modern frontend architecture and backend integration. [Live Site](https://picktot.com/)
 
 ### 🧠 Other Projects
 
